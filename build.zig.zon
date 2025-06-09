@@ -1,5 +1,5 @@
 .{
-    .name = "xcb.zig",
+    .name = .@"xcb.zig",
     .version = "0.1.16",
     .paths = .{""},
     .dependencies = .{
